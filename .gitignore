@@ -13,11 +13,7 @@ env.bak/
 venv.bak/
 
 # Project specifics
-models/*.csv
 data/*.jsonl
-data/*.csv
-data/*.json
-!data/candidate_schema.json
 
 # VS Code / IDEs
 .vscode/

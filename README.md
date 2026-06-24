@@ -1,4 +1,4 @@
-# AI Recruitment Ranking Engine 🚀
+# AI Recruitment Ranking Engine 
 
 An intelligent, low-latency machine learning pipeline designed to automatically evaluate, score, and rank software engineering candidates based on a specific job description.
 

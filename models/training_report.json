@@ -1,0 +1,288 @@
+{
+  "cv_scores": [
+    {
+      "fold": 0,
+      "rmse": 0.4387106663442648,
+      "mae": 0.35174548625946045
+    },
+    {
+      "fold": 1,
+      "rmse": 0.43236656765684606,
+      "mae": 0.35706764459609985
+    },
+    {
+      "fold": 2,
+      "rmse": 0.4627656405756391,
+      "mae": 0.3667254149913788
+    },
+    {
+      "fold": 3,
+      "rmse": 0.507874587738373,
+      "mae": 0.38590914011001587
+    },
+    {
+      "fold": 4,
+      "rmse": 0.46413105737610216,
+      "mae": 0.37967199087142944
+    }
+  ],
+  "feature_importances": [
+    {
+      "feature": "feat_dim4_skill_trust_score",
+      "importance": 0.05234741047024727
+    },
+    {
+      "feature": "feat_dim1_is_eng_title",
+      "importance": 0.03822570666670799
+    },
+    {
+      "feature": "feat_dim1_is_ai_title",
+      "importance": 0.03159987926483154
+    },
+    {
+      "feature": "feat_dim2_production_ratio",
+      "importance": 0.03127078711986542
+    },
+    {
+      "feature": "feat_dim3_retrieval_desc_count",
+      "importance": 0.029570728540420532
+    },
+    {
+      "feature": "feat_dim5_years_exp",
+      "importance": 0.029040217399597168
+    },
+    {
+      "feature": "feat_dim1_is_senior",
+      "importance": 0.0279717817902565
+    },
+    {
+      "feature": "feat_dim3_headline_retrieval",
+      "importance": 0.02743317186832428
+    },
+    {
+      "feature": "feat_dim4_has_python",
+      "importance": 0.026294497773051262
+    },
+    {
+      "feature": "feat_dim6_is_title_chaser",
+      "importance": 0.025847947224974632
+    },
+    {
+      "feature": "feat_dim1_eng_title_ratio",
+      "importance": 0.025670567527413368
+    },
+    {
+      "feature": "feat_dim3_retrieval_composite",
+      "importance": 0.025265563279390335
+    },
+    {
+      "feature": "feat_dim6_consulting_only",
+      "importance": 0.024440908804535866
+    },
+    {
+      "feature": "feat_dim3_search_system_exp",
+      "importance": 0.023100996389985085
+    },
+    {
+      "feature": "feat_dim2_production_kw_count",
+      "importance": 0.022846363484859467
+    },
+    {
+      "feature": "feat_dim4_relevant_ratio",
+      "importance": 0.02236253209412098
+    },
+    {
+      "feature": "feat_dim3_retrieval_skill_count",
+      "importance": 0.02216508239507675
+    },
+    {
+      "feature": "feat_dim4_advanced_relevant",
+      "importance": 0.02138487994670868
+    },
+    {
+      "feature": "feat_dim7_preferred_city",
+      "importance": 0.021145803853869438
+    },
+    {
+      "feature": "feat_dim1_ever_eng_title",
+      "importance": 0.020700637251138687
+    },
+    {
+      "feature": "feat_dim6_avg_tenure",
+      "importance": 0.020072106271982193
+    },
+    {
+      "feature": "feat_dim2_shipped_ml",
+      "importance": 0.018924936652183533
+    },
+    {
+      "feature": "feat_dim8_good_institution",
+      "importance": 0.017490876838564873
+    },
+    {
+      "feature": "feat_dim2_retrieval_kw_count",
+      "importance": 0.017465732991695404
+    },
+    {
+      "feature": "feat_dim8_best_tier",
+      "importance": 0.01689779758453369
+    },
+    {
+      "feature": "feat_dim6_consulting_ratio",
+      "importance": 0.016553491353988647
+    },
+    {
+      "feature": "feat_dim7_is_india",
+      "importance": 0.0161164291203022
+    },
+    {
+      "feature": "feat_dim7_workmode_score",
+      "importance": 0.015833571553230286
+    },
+    {
+      "feature": "feat_dim5_exp_band_score",
+      "importance": 0.015800440683960915
+    },
+    {
+      "feature": "feat_dim4_total_skills",
+      "importance": 0.01572536490857601
+    },
+    {
+      "feature": "feat_dim4_irrelevant_count",
+      "importance": 0.015511561185121536
+    },
+    {
+      "feature": "feat_dim4_relevant_skill_duration",
+      "importance": 0.01523524709045887
+    },
+    {
+      "feature": "feat_dim6_product_company_count",
+      "importance": 0.015101992525160313
+    },
+    {
+      "feature": "feat_dim7_notice_period",
+      "importance": 0.014891961589455605
+    },
+    {
+      "feature": "feat_dim4_assessment_avg",
+      "importance": 0.01488804817199707
+    },
+    {
+      "feature": "feat_dim4_must_have_count",
+      "importance": 0.014597943983972073
+    },
+    {
+      "feature": "feat_dim6_current_consulting",
+      "importance": 0.014408024027943611
+    },
+    {
+      "feature": "feat_dim8_relevant_field",
+      "importance": 0.014223459176719189
+    },
+    {
+      "feature": "feat_dim7_notice_score",
+      "importance": 0.01393075194209814
+    },
+    {
+      "feature": "feat_dim2_summary_production",
+      "importance": 0.01357546728104353
+    },
+    {
+      "feature": "feat_dim7_salary_reasonable",
+      "importance": 0.013524173758924007
+    },
+    {
+      "feature": "feat_dim7_willing_relocate",
+      "importance": 0.013522123917937279
+    },
+    {
+      "feature": "feat_dim7_tier1_city",
+      "importance": 0.0129812341183424
+    },
+    {
+      "feature": "feat_dim8_has_grad_degree",
+      "importance": 0.01297647412866354
+    },
+    {
+      "feature": "feat_dim8_tier_score",
+      "importance": 0.012840298935770988
+    },
+    {
+      "feature": "feat_dim1_is_non_eng_title",
+      "importance": 0.012190816923975945
+    },
+    {
+      "feature": "feat_dim3_recommendation_exp",
+      "importance": 0.011448672041296959
+    },
+    {
+      "feature": "feat_dim6_has_product_exp",
+      "importance": 0.011402390897274017
+    },
+    {
+      "feature": "feat_dim6_career_consistency",
+      "importance": 0.009921018965542316
+    },
+    {
+      "feature": "feat_dim4_nice_to_have_count",
+      "importance": 0.009717950597405434
+    },
+    {
+      "feature": "feat_dim5_in_ideal_range",
+      "importance": 0.00832873024046421
+    },
+    {
+      "feature": "feat_dim5_too_junior",
+      "importance": 0.005215426906943321
+    }
+  ],
+  "hyperparameters": {
+    "objective": "reg:squarederror",
+    "base_score": null,
+    "booster": null,
+    "callbacks": null,
+    "colsample_bylevel": null,
+    "colsample_bynode": null,
+    "colsample_bytree": 0.8,
+    "device": null,
+    "early_stopping_rounds": null,
+    "enable_categorical": true,
+    "eval_metric": null,
+    "feature_types": null,
+    "feature_weights": null,
+    "gamma": null,
+    "grow_policy": null,
+    "importance_type": null,
+    "interaction_constraints": null,
+    "learning_rate": 0.05,
+    "max_bin": null,
+    "max_cat_threshold": null,
+    "max_cat_to_onehot": null,
+    "max_delta_step": null,
+    "max_depth": 6,
+    "max_leaves": null,
+    "min_child_weight": 3,
+    "missing": NaN,
+    "monotone_constraints": null,
+    "multi_strategy": null,
+    "n_estimators": 300,
+    "n_jobs": -1,
+    "num_parallel_tree": null,
+    "random_state": 42,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1.0,
+    "sampling_method": null,
+    "scale_pos_weight": null,
+    "subsample": 0.8,
+    "tree_method": null,
+    "validate_parameters": null,
+    "verbosity": null
+  },
+  "training_samples": 1311,
+  "score_distribution": {
+    "4": 784,
+    "3": 522,
+    "2": 4,
+    "1": 1
+  }
+}
